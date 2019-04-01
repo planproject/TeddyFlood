@@ -3,7 +3,7 @@
 
 ----------
 
-<a href="https://travis-ci.org/PlanProject/TeddyFlood"><img src="https://travis-ci.org/PlanProject/TeddyFlood.svg?branch=master"></a>
+<a href="https://travis-ci.org/planproject/TeddyFlood"><img src="https://travis-ci.org/planproject/TeddyFlood.svg?branch=master"></a>
 
 For test PHP GUI
 
